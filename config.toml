@@ -1,6 +1,6 @@
-baseURL = "https://chikkirecipe.netlify.app"
+baseURL = "https://recetaquieres.netlify.app"
 languageCode = "en-us"
-title = "Chikki Recipe"
+title = "Receta Quieres"
 theme = "z"
 
 [taxonomies]
@@ -13,7 +13,7 @@ theme = "z"
 [params]
   description = "The place for over 1000 popular recipes for your complete cooking guide"
   topdescription = "The place for over 1000 popular recipes for your complete cooking guide"
-  toptitle = "Chikki Recipe"
+  toptitle = "Receta Quieres"
   contentBackgroundColor = "#fff"
   contentLinkColor = "#007bff"
   contentLinkHoverColor = "#0056b3"
@@ -41,7 +41,7 @@ theme = "z"
 
 [author]
     name = "Clara Bernadette"
-    homepage = "https://chikkirecipe.netlify.app"
+    homepage = "https://recetaquieres.netlify.app"
     bio = "True Food Lover"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 
